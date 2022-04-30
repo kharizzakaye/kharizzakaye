@@ -9,7 +9,7 @@
 
 ### :smiley_cat: About Me
 - :seedling: Currently learning MERN Stack, Laravel, and Mobile App Development.
-- :computer: Full-time Software Developer, Part-time Graphic Designer. Check out my [Behance](https://www.behance.net/kviloria) portfolio.
+- :computer: Full-time Software Developer, Part-time Graphic Designer. Check out my graphic designs on [Behance](https://www.behance.net/kviloria).
  
 ##
 ### :hammer_and_wrench: Languages and Tools
