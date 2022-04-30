@@ -13,7 +13,7 @@ Acesse o meu [portfolio](https://matheus-ferreira1.github.io).
   
 ##
 
-### Linguagens e Ferramentas
+### Languages and Tools
 
 <div style="display: inline_block"><br>
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-plain-wordmark.svg"/>
