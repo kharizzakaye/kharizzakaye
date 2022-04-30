@@ -39,8 +39,8 @@ Acesse o meu [portfolio](https://matheus-ferreira1.github.io).
 ##
 
 <div align="center">
-  <img height="160"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-ferreira1&layout=compact&theme=dark"/>
-  <img height="160"  src="http://github-readme-streak-stats.herokuapp.com?user=matheus-ferreira1&theme=dark&layout=compact&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img height="160"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharizzakaye&layout=compact&theme=dark"/>
+  <img height="160"  src="http://github-readme-streak-stats.herokuapp.com?user=kharizzakaye&theme=dark&layout=compact&date_format=M%20j%5B%2C%20Y%5D"/>
     
 </div>
 
