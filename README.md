@@ -1,16 +1,11 @@
 ## 👋 Hey there!
 
-  
+### About Me
 - *Fulltime learner* e apaixonado por tecnologia;
 - Desenvolvedor Web Frontend, com habilidades em HTML, CSS (CSS in JS), JavaScript, TypeScript e ReactJS;
 - Estudante de Análise e Desenvolvimento de Sistemas;
 - Bacharel em Biotecnologia.
-
-
-
-
-Acesse o meu [portfolio](https://matheus-ferreira1.github.io).
-  
+ 
 ##
 
 ### Languages and Tools
@@ -26,6 +21,10 @@ Acesse o meu [portfolio](https://matheus-ferreira1.github.io).
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
+
+
+View my [portfolio](https://matheus-ferreira1.github.io).
+
 
 ##
   
