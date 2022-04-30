@@ -8,7 +8,7 @@
 
 
 ### :smiley_cat: About Me
-- :seedling: A lifelong learner
+- :seedling: Currently learning MERN Stack, and Mobile App Development.
 - :computer: Full-time Software Developer, Part-time Graphic Designer. Check out my [Behance](https://www.behance.net/kviloria) portfolio.
  
 ##
