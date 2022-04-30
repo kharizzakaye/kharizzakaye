@@ -51,5 +51,5 @@ Acesse o meu [portfolio](https://matheus-ferreira1.github.io).
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=cmatheus-ferreira1.matheus-ferreira1" alt="visitor badge"/>       
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kharizzakaye" alt="visitor badge"/>       
 </p>
