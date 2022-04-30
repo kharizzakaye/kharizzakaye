@@ -1,4 +1,4 @@
-## Olá! 👋
+## 👋 Hey there!
 
   
 - *Fulltime learner* e apaixonado por tecnologia;
