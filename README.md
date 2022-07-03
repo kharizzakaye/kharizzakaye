@@ -8,7 +8,7 @@
 
 
 ### :smiley_cat: About Me
-- :seedling: Currently learning MERN Stack, Laravel, and Mobile App Development.
+- :seedling: Areas of expertise: PHP, C#, JavaScript, ReactJS.
 - :computer: Full-time Software Developer, Part-time Graphic Designer. Check out my graphic designs on [Behance](https://www.behance.net/kviloria).
  
 ##
