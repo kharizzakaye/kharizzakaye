@@ -9,7 +9,7 @@
 
 ### :smiley_cat: About Me
 <!-- - :seedling: Areas of expertise: PHP, C#, JavaScript, ReactJS. -->
-- :computer: Full-time Software Developer, Part-time Graphic Designer. Check out my graphic designs on [Behance](https://www.behance.net/kviloria).
+- :computer: Full-time Software Developer.
  
 ##
 ### :hammer_and_wrench: Languages and Tools
