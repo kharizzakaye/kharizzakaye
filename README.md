@@ -10,6 +10,7 @@
 ### :smiley_cat: About Me
 <!-- - :seedling: Areas of expertise: PHP, C#, JavaScript, ReactJS. -->
 - :computer: Full-time Software Developer.
+- :seedling: Farm owner.
  
 ##
 ### :hammer_and_wrench: Languages and Tools
