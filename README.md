@@ -11,7 +11,7 @@
 <!-- - :seedling: Areas of expertise: PHP, C#, JavaScript, ReactJS. -->
 - :computer: Full-time Software Developer.
 - :seedling: Farm owner.
-- :cat: A slave to my lovely cats.
+- :cat2: A slave to my lovely cats.
  
 ##
 ### :hammer_and_wrench: Languages and Tools
