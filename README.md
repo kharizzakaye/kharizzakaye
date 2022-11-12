@@ -67,11 +67,10 @@ View my [Behance page](https://www.behance.net/kviloria). -->
   <a href="https://www.linkedin.com/in/kharizzaviloria/" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
    -->
-   
-   
-##
+    
+<!-- ##
 ### :fire: My Stats
 <div>
   <img height="160"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharizzakaye&layout=compact&theme=dark"/>
   <img height="160"  src="http://github-readme-streak-stats.herokuapp.com?user=kharizzakaye&theme=dark&layout=compact&date_format=M%20j%5B%2C%20Y%5D"/>
-</div>
+</div> -->
