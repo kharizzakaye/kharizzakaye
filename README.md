@@ -10,8 +10,8 @@
 ### :smiley_cat: About Me
 <!-- - :seedling: Areas of expertise: PHP, C#, JavaScript, ReactJS. -->
 - :computer: Full-time Software Developer.
-<!-- - :seedling: Farm owner. 
-- :cat2: Lives with my lovely cats. -->
+- :seedling: Farm owner. 
+- :cat2: Lives with my lovely cats.
  
 ##
 ### :computer: Languages and Frameworks
@@ -26,26 +26,24 @@
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" />
 </div>
 
 ##
-### :hammer_and_wrench: Tools
+### :hammer_and_wrench: Other Tools
 
 <div style="display: inline_block"><br>
+  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" />
+  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
 
   
   <!--   
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
-  
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" />
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" />
-
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" />
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" />
