@@ -10,14 +10,11 @@
 ### :smiley_cat: About Me
 <!-- - :seedling: Areas of expertise: PHP, C#, JavaScript, ReactJS. -->
 - :computer: Full-time Software Developer.
-- :seedling: Farm owner.
-- :cat2: Lives with my lovely cats.
+<!-- - :seedling: Farm owner. 
+- :cat2: Lives with my lovely cats. -->
  
 ##
-
-### :computer: Languages
-### :hammer_and_wrench: Languages and Tools
-
+### :computer: Languages and Frameworks
 <div style="display: inline_block"><br>
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-plain-wordmark.svg"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-plain-wordmark.svg"/>
@@ -29,11 +26,19 @@
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+</div>
+
+##
+### :hammer_and_wrench: Tools
+
+<div style="display: inline_block"><br>
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
+
   
   <!--   
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
+  
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" />
