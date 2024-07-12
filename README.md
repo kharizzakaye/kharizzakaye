@@ -14,6 +14,8 @@
 - :cat2: Lives with my lovely cats.
  
 ##
+
+### :computer: Languages
 ### :hammer_and_wrench: Languages and Tools
 
 <div style="display: inline_block"><br>
