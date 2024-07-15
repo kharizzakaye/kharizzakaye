@@ -30,7 +30,7 @@
 </div>
 
 ##
-### :hammer_and_wrench: Other Tools
+<!--  ### :hammer_and_wrench: Other Tools
 
 <div style="display: inline_block"><br>
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" />
@@ -40,7 +40,7 @@
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
 
   
-  <!--   
+
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" />
