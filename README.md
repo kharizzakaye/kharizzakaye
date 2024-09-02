@@ -13,7 +13,7 @@
 - :seedling: Learning something new everyday. 
 - :cat2: Lives with my lovely cats.
   
-- :whale: View Personal Portfolio [here](https://www.behance.net/kviloria).
+- :whale: View Personal Portfolio [here](https://www.kharizzakaye.github.io) - *On-going project*.
 - :flags: Check my Behance page [here](https://www.behance.net/kviloria).
  
 ##
