@@ -10,8 +10,11 @@
 ### :smiley_cat: About Me
 <!-- - :seedling: Areas of expertise: PHP, C#, JavaScript, ReactJS. -->
 - :computer: Full-time Software Developer.
-- :seedling: Farm owner. 
+- :seedling: Learning something new everyday. 
 - :cat2: Lives with my lovely cats.
+  
+- :whale: View Personal Portfolio [here](https://www.behance.net/kviloria).
+- :flags: Check my Behance page [here](https://www.behance.net/kviloria).
  
 ##
 ### :computer: Languages and Frameworks
@@ -54,16 +57,16 @@
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" />
-  -->
+  
 </div>
 
 
-<!-- 
-##
+
+
 ### :flags: My Portfolio
 
-View my [Behance page](https://www.behance.net/kviloria). -->
-
+View my [Behance page](https://www.behance.net/kviloria).
+-->
 
 <!-- ## 
 ### :telephone: Contact Me
@@ -71,11 +74,11 @@ View my [Behance page](https://www.behance.net/kviloria). -->
   <a target="_blank" href="mailto:MYEMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/kharizzaviloria/" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-   -->
+   
     
-<!-- ##
+##-->
 ### :fire: My Stats
 <div>
   <img height="160"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharizzakaye&layout=compact&theme=dark"/>
   <img height="160"  src="http://github-readme-streak-stats.herokuapp.com?user=kharizzakaye&theme=dark&layout=compact&date_format=M%20j%5B%2C%20Y%5D"/>
-</div> -->
+</div>
