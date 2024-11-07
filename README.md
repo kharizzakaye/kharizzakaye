@@ -2,17 +2,17 @@
 
 <img src="https://komarev.com/ghpvc/?username=kharizzakaye&style=flat-square&color=blue" alt=""/>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="250"/>
-</div>
-
 ### :smiley_cat: About Me
 - :computer: Full-time Software Developer, specializing in LAMP and MERN stacks.
 - :flags: Freelance Graphic Designer, Photo Restorer and Photo & Video Editor.
 - :seedling: Learning something new everyday. 
 - :cat2: Lives with my lovely cats.
 - :whale: Check out my [Personal Portfolio](https://kharizzaviloria.netlify.app/) and [Behance Profile](https://www.behance.net/kviloria).
- 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="250"/>
+</div>
+
 ##
 ### :computer: Languages and Frameworks
 <div style="display: inline_block"><br>
