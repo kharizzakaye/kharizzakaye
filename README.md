@@ -2,19 +2,16 @@
 
 <img src="https://komarev.com/ghpvc/?username=kharizzakaye&style=flat-square&color=blue" alt=""/>
 
-<!-- <div id="header" align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="250"/>
-</div> -->
-
+</div>
 
 ### :smiley_cat: About Me
-<!-- - :seedling: Areas of expertise: PHP, C#, JavaScript, ReactJS. -->
 - :computer: Full-time Software Developer, specializing in LAMP and MERN stacks.
-- :computer: Freelance Graphic Designer, Photo Restorer and Photo & Video Editor.
+- :flags: Freelance Graphic Designer, Photo Restorer and Photo & Video Editor.
 - :seedling: Learning something new everyday. 
 - :cat2: Lives with my lovely cats.
-- :whale: View Personal Portfolio [here](https://kharizzaviloria.netlify.app/)
- <!-- - - :flags: Check my Behance page [here](https://www.behance.net/kviloria). -->
+- :whale: Check out my [Personal Portfolio](https://kharizzaviloria.netlify.app/) and [Behance Profile](https://www.behance.net/kviloria).
  
 ##
 ### :computer: Languages and Frameworks
@@ -61,22 +58,7 @@
 </div>
 
 
-
-
-### :flags: My Portfolio
-
-View my [Behance page](https://www.behance.net/kviloria).
 -->
-
-<!-- ## 
-### :telephone: Contact Me
-<div>
-  <a target="_blank" href="mailto:MYEMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kharizzaviloria/" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-   
-    
-##-->
 ### :fire: My Stats
 <div>
   <img height="160"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharizzakaye&layout=compact&theme=dark"/>
