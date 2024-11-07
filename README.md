@@ -10,6 +10,7 @@
 ### :smiley_cat: About Me
 <!-- - :seedling: Areas of expertise: PHP, C#, JavaScript, ReactJS. -->
 - :computer: Full-time Software Developer, specializing in LAMP and MERN stacks.
+- :computer: Freelance Graphic Designer, Photo Restorer and Photo & Video Editor.
 - :seedling: Learning something new everyday. 
 - :cat2: Lives with my lovely cats.
 - :whale: View Personal Portfolio [here](https://kharizzaviloria.netlify.app/)
