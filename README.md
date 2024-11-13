@@ -19,14 +19,18 @@
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-plain-wordmark.svg"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-plain-wordmark.svg"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-plain.svg"/>
+  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg"/>
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/reactbootstrap/reactbootstrap-original.svg" />
+  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" />
+  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" />
+  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" />
 </div>
 
 ##
@@ -39,15 +43,12 @@
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
 
-  
-
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" />
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" />
+  
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/meteor/meteor-original.svg" />
   <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />
