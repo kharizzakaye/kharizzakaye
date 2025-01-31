@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=kharizzakaye&style=flat-square&color=blue" alt=""/>
 
 ### :smiley_cat: About Me
-- :computer: Full-time Software Developer, specializing in LAMP and MERN stacks.
+- :computer: A Full-stack software developer.
 - :flags: Freelance Graphic Designer, Photo Restorer and Photo & Video Editor.
 - :seedling: Learning something new everyday. 
 - :cat2: Lives with my lovely cats.
