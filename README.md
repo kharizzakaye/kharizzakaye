@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=kharizzakaye&style=flat-square&color=blue" alt=""/>
 
-### :smiley_cat: About Me
+## :smiley_cat: About Me</h2>
 - :computer: A fullstack Software Developer.
 - :flags: Freelance Graphic Designer, Photo Restorer and Photo & Video Editor.
 - :seedling: Learning something new everyday. 
@@ -13,54 +13,67 @@
   <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="250"/>
 </div>
 
-##
-### :computer: Languages and Frameworks
-<div style="display: inline_block"><br>
-  <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-plain-wordmark.svg"/>
-  <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-plain-wordmark.svg"/>
-  <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-plain.svg"/>
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg"/>
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/reactbootstrap/reactbootstrap-original.svg" />
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" />
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" />
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" />
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" />
-</div>
 
-##
-<!--  ### :hammer_and_wrench: Other Tools
+## 🚀 Tech Stack
 
-<div style="display: inline_block"><br>
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" />
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
+<details>
+  <summary><strong>🧩 Frontend</strong></summary>
+  <div style="display: inline_block"><br>
+    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" title="HTML5"/>
+    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" title="CSS3"/>
+    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript"/>
+    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap"/>
+    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery"/>
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS"/>
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React"/>
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js"/>
+    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/reactbootstrap/reactbootstrap-original.svg" title="React Bootstrap"/>
+    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS"/>
+    <img width="50" src="https://lucide.dev/logo.svg" title="Shadcn UI"/>
+    <img width="50" src="https://www.telerik.com/favicon.ico" title="KendoReact UI"/>
+    <img width="50" src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg" title="React Hook Form"/>
+  </div>
+  <br>
+</details>
 
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" />
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" />
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" />
-  
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" />
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/meteor/meteor-original.svg" />
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" />
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" />
-  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" />
-  
-</div>
+<details>
+  <summary><strong>⚙️ Backend</strong></summary>
+  <div style="display: inline_block"><br>
+    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS"/>
+    <img width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP"/>
+    <img width="60" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel"/>
+    <img width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#"/>
+    <img width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"/>
+    <img width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="Java"/>
+    <img width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"/>
+    <img width="60" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"/>
+  </div>
+  <br>
+</details>
 
+<details>
+  <summary><strong>🧰 Dev Tools</strong></summary>
+  <div style="display: inline_block"><br>
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" title="Git"/>
+    <img width="60" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm"/>
+    <img width="60" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"/>
+  </div>
+  <br>
+</details>
 
--->
-### :fire: My Stats
+<details>
+  <summary><strong>🎨 Design</strong></summary>
+  <div style="display: inline_block"><br>
+    <img width="60" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"/>
+    <img width="60" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="Adobe XD"/>
+  </div>
+  <br>
+</details>
+
+<br/>
+
+## :fire: My Stats
 <div>
   <img height="160"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharizzakaye&layout=compact&theme=dark"/>
   <img height="160"  src="http://github-readme-streak-stats.herokuapp.com?user=kharizzakaye&theme=dark&layout=compact&date_format=M%20j%5B%2C%20Y%5D"/>
