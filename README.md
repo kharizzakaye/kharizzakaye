@@ -22,18 +22,10 @@
     <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" title="HTML5"/>
     <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" title="CSS3"/>
     <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript"/>
-    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap"/>
     <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery"/>
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS"/>
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React"/>
     <img width="50" src="https://img.icons8.com/color/96/react-native.png" title="React Native"/>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js"/>
-    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/reactbootstrap/reactbootstrap-original.svg" title="React Bootstrap"/>
-    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS"/>
-    <img width="50" src="https://lucide.dev/logo.svg" title="Shadcn UI"/>
-    <img width="50" src="https://www.telerik.com/favicon.ico" title="KendoReact UI"/>
-    <img width="50" src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg" title="React Hook Form"/>
     <br>
   </div>
 
@@ -46,10 +38,6 @@
     <img width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP"/>
     <img width="60" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel"/>
     <img width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#"/>
-    <img width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"/>
-    <img width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="Java"/>
-    <img width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"/>
-    <img width="60" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"/>
     <br>
   </div>
   
